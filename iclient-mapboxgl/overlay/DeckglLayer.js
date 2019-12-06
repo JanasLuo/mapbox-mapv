@@ -5,7 +5,7 @@ import mapboxgl from 'mapbox-gl';
 import '../core/Base';
 import {
     CommonUtil
-} from "@supermap/iclient-common";
+} from "mapbox-mapv/iclient-common";
 import {
     Util
 } from "../core/Util";

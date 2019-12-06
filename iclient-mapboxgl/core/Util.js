@@ -3,7 +3,7 @@
  * which accompanies this distribution and is available at http://www.apache.org/licenses/LICENSE-2.0.html.*/
 import mapboxgl from "mapbox-gl";
 import "../core/Base";
-import { Bounds, GeometryPoint, Polygon, LinearRing } from "@supermap/iclient-common";
+import { Bounds, GeometryPoint, Polygon, LinearRing } from "mapbox-mapv/iclient-common";
 
 /**
  * @class mapboxgl.supermap.Util

@@ -8,7 +8,7 @@ import {
 } from "./mapv/MapvRenderer";
 import {
     CommonUtil
-} from '@supermap/iclient-common';
+} from 'mapbox-mapv/iclient-common';
 
 /**
  * @class mapboxgl.supermap.MapvLayer
